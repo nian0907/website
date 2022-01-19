@@ -1,0 +1,47 @@
+
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+#layer1 {
+  position: relative;
+  left: 10px;
+  top: 30px;
+  width: 1420px;
+  height: 300px;
+  padding: 10px;
+  background: #fc0;
+  border: 5px double black;}
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing
+h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4
+p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+h1 {
+  position: absolute;
+  color: brown;
+  font-size: 45px;
+  top: 0px
+}
+
+h4 {
+  font-size: 1000%
+}
